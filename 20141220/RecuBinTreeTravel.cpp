@@ -20,7 +20,7 @@ Node *newNode(string data)
 
 Node *createBinTree()
 {/*
-				 A
+			     A
 			   /   \
 			  B     C
 			 / \   / \
