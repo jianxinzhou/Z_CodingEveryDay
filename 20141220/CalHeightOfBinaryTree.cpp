@@ -1,5 +1,5 @@
 /**
- * 求二叉树的高度
+ * 璁＄畻浜屽弶鏍戠殑楂樺害
  * Height = max(heightOfLeftSubTree, heightOfRightSubTree) + 1
  */
 
